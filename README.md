@@ -1,1 +1,3 @@
-echo "this is my project." > README.me
+echo "this is my project."  
+
+echho "new features"
